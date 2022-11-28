@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @andrewsams
+- 👀 I’m interested in developing powerful learning environments and software that can support them.
+- 🌱 I’m currently learning TypeScript.
+- 💞️ I’m looking to collaborate on, well, nothing really.
+- 📫 How to reach me ... Don't.
